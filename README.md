@@ -1,2 +1,2 @@
 # Cute-image-slider
-Cute slider by chibz coded in HTML, CSS JAVASCRIPT
+Cute slider-chibz coded in HTML, CSS JAVASCRIPT
