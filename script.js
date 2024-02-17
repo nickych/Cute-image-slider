@@ -6,7 +6,6 @@ const wrapper = document.querySelector(".wrapper"),
 let imageIndex = 1,
   intervalId;
 
-
 const autoSlide = () => {
   intervalId = setInterval(() => slideImage(++imageIndex), 2000);
 };
