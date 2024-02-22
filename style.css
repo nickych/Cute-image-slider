@@ -52,12 +52,14 @@ i#prev {
 i#next {
   right: 25px;
 }
+
 .image-container {
   height: 320px;
   max-width: 500px;
   width: 100%;
   overflow: hidden;
 }
+
 .image-container .carousel {
   display: flex;
   height: 100%;
