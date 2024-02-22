@@ -45,6 +45,7 @@ body {
 i.button:active {
   transform: scale(0.94) translateY(-50%);
 }
+
 i#prev {
   left: 25px;
 }
@@ -66,6 +67,7 @@ i#next {
   width: 100%;
   transition: all 0.4s ease;
 }
+
 .carousel img {
   height: 100%;
   width: 100%;
@@ -73,4 +75,5 @@ i#next {
   border: 10px solid #fff;
   object-fit: cover;
 }
+
 /* @CHIBZ@DEJAVU */
