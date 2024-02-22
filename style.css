@@ -41,12 +41,14 @@ body {
   z-index: 100;
   cursor: pointer;
 }
+
 i.button:active {
   transform: scale(0.94) translateY(-50%);
 }
 i#prev {
   left: 25px;
 }
+
 i#next {
   right: 25px;
 }
