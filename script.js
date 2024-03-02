@@ -1,3 +1,5 @@
+// New year
+
 const wrapper = document.querySelector(".wrapper"),
   carousel = document.querySelector(".carousel"),
   images = document.querySelectorAll("img"),
