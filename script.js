@@ -29,5 +29,4 @@ buttons.forEach((button) => button.addEventListener("click", updateClick));
 
 wrapper.addEventListener("mouseover", () => clearInterval(intervalId));
 wrapper.addEventListener("mouseleave", autoSlide);
-
 //Next 
